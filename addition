@@ -1,0 +1,9 @@
+#include<studio.h>
+intmain()
+{
+ int x,y,total;
+ x=10,y=20;
+ total=x+y;
+ printf("total=%d\n",total);
+ return0;
+}
